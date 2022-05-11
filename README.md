@@ -66,4 +66,6 @@ else:
 # Results and Output : 
  ![screen 33](https://user-images.githubusercontent.com/75235150/167777643-2556531a-763b-4cf9-b831-d05fe0c640ce.jpg)
 ![PTGG](https://user-images.githubusercontent.com/75235150/167777653-e12e4b3d-5ddf-41cc-bb31-544784300043.jpg)
+  
+  
   Thus, fitting binomial distribution for the given frequencey distribution is verified.
